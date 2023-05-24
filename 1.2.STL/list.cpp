@@ -25,5 +25,7 @@ int main(){
 
     cout << endl;
 
+    // THERE IS ANOTHER DATA STRUCTURE WHICH IS CALLS 'DEQUE' SAME AS THE VECTOR AND LIST.
+
     return 0;
 }
