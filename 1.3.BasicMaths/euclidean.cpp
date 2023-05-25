@@ -19,7 +19,9 @@ int main(){
 
     // custom function
     cout << gcdd(a,b) << endl;
-
-
+    
+    if(gcdd(a,b)>1){
+        cout << "relatively prime numbers" << endl;
+    }
     return 0;
 }
